@@ -20,7 +20,11 @@ PyMoosh is based on a scattering matrix formalism to solve Maxwell's equations i
 
 ## References
 
-If you use PyMoosh and if this is relevant, please cite the [paper associated with Moosh](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.100/). Another paper is on its way, hopefully...
+The paper describing PyMoosh and its features in detail can be found on ArXiV, [as a preprint waiting to be published (fingers crossed)](https://arxiv.org/abs/2309.00654). The version 3.1 of PyMoosh has been archived on Zenedo and attributed a DOI, so that it is easier to cite. 
+
+[![DOI](https://zenodo.org/badge/536153404.svg)](https://zenodo.org/badge/latestdoi/536153404)
+
+You may, for now, cite the [paper associated with Moosh](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.100/).
 
 ```
 @article{defrance2016moosh,
@@ -33,6 +37,7 @@ year={2016},
 publisher={Ubiquity Press}
 }
 ```
+
 
 Even if PyMoosh is quite simple, this is a research-grade program. We actually do research with it. We've done cool things, like [comparing evolutionary algorithms and real evolution for the first time in history](https://www.nature.com/articles/s41598-020-68719-3).
 
